@@ -1,0 +1,8 @@
+{
+    "name": "windeljet/motorshop",
+    "description": "project of BSIS 3A in web dev",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
